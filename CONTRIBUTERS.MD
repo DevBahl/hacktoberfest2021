@@ -205,8 +205,8 @@
 | Harshit Gupta        | [@HarshitGupta150](https://github.com/HarshitGupta150)        |         0        |
 | Manju Thakur         | [@mthakur7](https://github.com/mthakur7)                      |         1        |
 | Atharva patil        | [@Attupatil](https://github.com/Attupatil)                    |         1        |
-| Yashraj Singh Boparai | [@Yashrajsingh2001](https://github.com/Yashrajsingh2001)     |         1        |
-| Saurabh Nikam       | [@saurabh-nikam](https://github.com/saurabh-nikam)             |         1        |
+| Yashraj Singh Boparai| [@Yashrajsingh2001](https://github.com/Yashrajsingh2001)      |         1        |
+| Saurabh Nikam        | [@saurabh-nikam](https://github.com/saurabh-nikam)            |         1        |
 | Malya Bansal         | [@malyabansalper](https://github.com/malyabansalper)          |         1        |
 | Prateek Shaw         | [@Lucifer12929](https://github.com/Lucifer12929)              |         0        |               
 | Krishna Kumar        | [@Krishnapro](https://github.com/Krishnapro)                  |         1        |
@@ -215,4 +215,5 @@
 | Nishant Kumar Singh  | [@Nishant5476](https://github.com/Nishant5476)                |         1        |
 | Ayush Singla         | [@Ayush-singla27](https://github.com/Ayush-singla27)          |         0        |
 | Yerkin Myrzabekov    | [@papa-het](https://github.com/Papa-het)                      |         1        |
-| Abhishek Mukherjee|  | [@abhishekkmukherjee](https://github.com/abhishekkmukherjee)
+| Abhishek Mukherjee   | [@abhishekkmukherjee](https://github.com/abhishekkmukherjee)  |         0        |
+| Dev Bahl             | [@DevBahl](https://github.com/DevBahl)                        |         0        |
